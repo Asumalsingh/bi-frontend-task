@@ -51,7 +51,7 @@ export default function Other() {
             <p className="text-white text-sm my-3">YuuTube | 0.34</p>
 
             <iframe
-              src="https://www.youtube.com/embed/5lAviYdBhFM"
+              src="https://www.youtube.com/embed/Y9z2GtLzKD0"
               title="4th Year Anniversary Celebration | Brain Inventory | #4YearsStrong"
               frameborder="0"
               className="w-full aspect-video"
